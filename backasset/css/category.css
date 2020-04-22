@@ -1,0 +1,6 @@
+.category_action {
+	cursor: pointer;
+}
+.category_action span:hover {
+	color:red;
+}

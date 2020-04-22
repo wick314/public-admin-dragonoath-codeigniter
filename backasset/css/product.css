@@ -1,0 +1,9 @@
+.owl-carousel .owl-item img {
+	width: auto;
+}
+.owl-carousel {
+    padding: 10px 0px;
+}
+.ino_select {
+	z-index:10;
+}
